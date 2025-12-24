@@ -2,21 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Take a shower\, go for a walk around Tigard\, and spend some time relaxing alone. This activity will take about 2 hours and is meant to be calming.
 DTEND:20251224T121700Z
 DTSTART:20251224T101700Z
 SUMMARY:Group 1
-UID:4dc18900-1db6-48a7-a7c8-882986f9654a@4dc1.org
+UID:aa1d9e39-2a26-4467-91c6-b374b8899c72@aa1d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Clean the kitchen and living room for about an hour\, focusing on completing the dishes as the top priority.
 DTEND:20251224T131900Z
 DTSTART:20251224T121900Z
 SUMMARY:Group 2
-UID:cb37a44e-973b-4843-90f5-e30317d65578@cb37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T121900Z
-DTSTART:20251224T101900Z
-SUMMARY:Group 1
-UID:9c181e29-5837-4cdc-a5e4-3feddb33ad4c@9c18.org
+UID:0780bbec-701a-4e38-ab99-cd5b788772d0@0780.org
 END:VEVENT
 END:VCALENDAR
