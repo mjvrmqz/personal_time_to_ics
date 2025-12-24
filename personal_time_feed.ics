@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Go to dinner with Anna and bring some friends along. The outing will take approximately 4 hours. #ActionableSteps
-DTEND:20251224T121700Z
-DTSTART:20251224T101700Z
-SUMMARY:Group 1
-UID:b45fc4ab-cc3a-4c78-8f34-a9cb2177cca2@b45f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Clean the kitchen and living room for about an hour\, focusing on completing the dishes as the top priority.
 DTEND:20251224T131900Z
 DTSTART:20251224T121900Z
 SUMMARY:Group 2
-UID:671079f1-f0aa-45b3-80af-2be3cceebae7@6710.org
+UID:353a7ce9-c50a-4951-8db7-984060afe7d3@353a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Go to dinner with Anna and bring some friends along. The outing will take approximately 4 hours. #ActionableSteps
+DTEND:20251224T121700Z
+DTSTART:20251224T101700Z
+SUMMARY:Group 1
+UID:ac28243d-c6e0-4873-b2c2-1bfb882b65b3@ac28.org
 END:VEVENT
 END:VCALENDAR
