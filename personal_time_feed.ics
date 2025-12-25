@@ -2,9 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Clean the house thoroughly\, focusing on tidying up all areas and paying special attention to the bathroom. #ActionableSteps #NotionCalendar
 DTEND:20251225T064200Z
 DTSTART:20251225T054200Z
 SUMMARY:Group 2
-UID:fb0ffa24-3487-496e-8828-88394ff4d8cb@fb0f.org
+UID:0b0a6419-caac-4f77-97e9-4ed0c2ec321d@0b0a.org
 END:VEVENT
 END:VCALENDAR
