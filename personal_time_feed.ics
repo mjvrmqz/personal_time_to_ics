@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Clean the house thoroughly\, focusing on tidying up all areas and paying special attention to the bathroom. #ActionableSteps #NotionCalendar
-DTEND:20251225T064200Z
-DTSTART:20251225T054200Z
-SUMMARY:Group 2
-UID:503f1196-7a08-460e-83eb-89f1ceb7a20f@503f.org
+DESCRIPTION:Clean the kitchen and bathroom\, read for an hour from *To Sell Is Human*\, and plan UberEats shifts including rules and guidelines for deliveries. #ActionableSteps #NotionCalendar
+DTEND:20251229T171000Z
+DTSTART:20251229T141000Z
+SUMMARY:Group 1
+UID:adb9e31c-f74a-4870-9f23-479d8136b23a@adb9.org
 END:VEVENT
 END:VCALENDAR
