@@ -1,18 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Take a shower and then go for a run around Tigard for about an hour\, aiming to cover at least half a mile. #ActionableSteps #NotionCalendar #EndOfDay
-DTEND:20251230T153200Z
-DTSTART:20251230T143200Z
-SUMMARY:Group 3
-UID:d59e19fb-dd77-4449-81a9-8d41e6c5c4e5@d59e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Spend two hours engaging with the book *To Sell Is Human*\, either by reading for the full duration or splitting time between reading and researching additional books. Highlight any words or sentences that stand out. #ActionableSteps #NotionCalendar
-DTEND:20251230T143200Z
-DTSTART:20251230T123200Z
-SUMMARY:Group 2
-UID:851ef460-69d6-466a-b0f7-00a782d66ba2@851e.org
-END:VEVENT
 END:VCALENDAR
